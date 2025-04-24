@@ -33,6 +33,3 @@ This project is a **content-based song recommender system** built using the **Sp
 - Pickle-based model saving and reuse
 - Flask web app for easy UI integration
 
----
-
-Would you like me to also write installation steps or usage instructions for the README?
