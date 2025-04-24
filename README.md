@@ -1,7 +1,4 @@
 # Spotify_Music_Recommendation_System
-Sure! Here's a concise and professional **README Summary** for your GitHub repository based on the architecture diagram of your **Spotify Song Recommender System**:
-
----
 
 ## 🎵 Spotify Song Recommender System — Project Summary
 
