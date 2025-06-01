@@ -7,7 +7,7 @@ This project is a **content-based song recommender system** built using the **Sp
 #🔧 **Workflow Overview:**
 
 1. **Data Source & Ingestion**:  
-   The system begins by loading Spotify playlist data (in `.csv` format) either from local storage or Amazon S3 into a **Pandas DataFrame**.
+   The system begins by loading Spotify playlist data (in `.csv` format) from local storage and  Amazon S3 into a **Pandas DataFrame**.
 
 2. **Text Processing**:  
    Playlist data is vectorized using **TF-IDF (Term Frequency-Inverse Document Frequency)** to capture the importance of song metadata.
